@@ -21,6 +21,6 @@ Lista de exercícios - Minha resolução da lista
 [13- Investigando causalidade entre Produção Industrial x Confiança,
 Inflação Medida x Expectativa](https://github.com/rodfloripa/Macroeconometria_com_R/blob/master/Rodney-Lista13.pdf)
 
-[lista14](https://github.com/rodfloripa/Macroeconometria_com_R/blob/master/ex-lista14.pdf)
-[14- Investigando causalidade entre Desembolso do BNDES x Taxa de Investimento,
-Receita x Despesa](https://github.com/rodfloripa/Macroeconometria_com_R/blob/master/Rodney-Lista14.pdf)
+[lista15](https://github.com/rodfloripa/Macroeconometria_com_R/blob/master/ex-lista15.pdf)
+[15- Investigando causalidade entre Desembolso do BNDES x Taxa de Investimento,
+Receita x Despesa](https://github.com/rodfloripa/Macroeconometria_com_R/blob/master/Rodney-Lista15.pdf)
