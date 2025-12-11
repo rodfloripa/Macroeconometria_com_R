@@ -7,16 +7,16 @@ ex-Lista-xx:       Lista de exercícios
 
 Rodney-Lista-xx:   Minha resolução da lista
 
-9 - Análise da serie temporal do PIB e seu processo gerador
+[9 - Análise da serie temporal do PIB e seu processo gerador](https://github.com/rodfloripa/Macroeconometria_com_R/blob/master/Rodney-Lista09.pdf)
 
-10- Previsão da produção industrial usando modelo ARIMAX
+[10- Previsão da produção industrial usando modelo ARIMAX](https://github.com/rodfloripa/Macroeconometria_com_R/blob/master/Rodney-Lista10.pdf)
 
-11- Previsão das vendas no comércio usando modelo ARIMAX e regressão
+[11- Previsão das vendas no comércio usando modelo ARIMAX e regressão](https://github.com/rodfloripa/Macroeconometria_com_R/blob/master/Rodney-Lista11.pdf)
 
-12- Previsão da dívida bruta com um modelo VAR de correção de erros
+[12- Previsão da dívida bruta com um modelo VAR de correção de erros](https://github.com/rodfloripa/Macroeconometria_com_R/blob/master/Rodney-Lista12.pdf)
 
-13- Investigando causalidade entre Produção Industrial x Confiança,
-Inflação Medida x Expectativa
+[13- Investigando causalidade entre Produção Industrial x Confiança,
+Inflação Medida x Expectativa](https://github.com/rodfloripa/Macroeconometria_com_R/blob/master/Rodney-Lista13.pdf)
 
-14- Investigando causalidade entre Desembolso do BNDES x Taxa de Investimento,
-Receita x Despesa
+[14- Investigando causalidade entre Desembolso do BNDES x Taxa de Investimento,
+Receita x Despesa](https://github.com/rodfloripa/Macroeconometria_com_R/blob/master/Rodney-Lista14.pdf)
