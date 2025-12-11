@@ -6,6 +6,7 @@ Exercícios selecionados do curso de Macroeconometria da Análise Macro(https://
 ex-Lista-xx:       Lista de exercícios
 
 Rodney-Lista-xx:   Minha resolução da lista
+
 [lista9](https://github.com/rodfloripa/Macroeconometria_com_R/blob/master/ex-lista09.pdf)
 [9 - Análise da serie temporal do PIB e seu processo gerador](https://github.com/rodfloripa/Macroeconometria_com_R/blob/master/Rodney-Lista09.pdf)
 
