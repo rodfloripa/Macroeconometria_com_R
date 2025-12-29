@@ -1,6 +1,6 @@
 # Macroeconometria com R
 <p align="justify">
-Exercícios selecionados do curso de Macroeconometria da Análise Macro(https://analisemacro.com.br/) , onde séries temporais de importantes indicadores econômicos são analisadas. Em alguns casos são criados modelos de previsão para as séries.O professor deste curso,Vitor Wilher, é Cientista de Dados,Bacharel e Mestre em Economia pela Universidade Federal Fluminense, tendo se especializado na construção de modelos macroeconométricos.Ele é o fundador da Análise Macro, que dá cursos e faz consultoria na área de modelos preditivos.
+Exercícios selecionados do curso de Macroeconometria da Análise Macro(https://analisemacro.com.br/) , onde séries temporais de importantes indicadores econômicos são analisadas. Em alguns casos são criados modelos de previsão para as séries. O professor deste curso,Vitor Wilher, é Cientista de Dados,Bacharel e Mestre em Economia pela Universidade Federal Fluminense, tendo se especializado na construção de modelos macroeconométricos. Ele é o fundador da Análise Macro, que dá cursos e faz consultoria na área de modelos preditivos.
 </p>
 
 Lista de exercícios - Minha resolução da lista
